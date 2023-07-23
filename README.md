@@ -1,11 +1,10 @@
 # My Ph.D. Dissertation
 Resources in support of my PhD Dissertation
 
-Projects:
 - Systolic RAM: [[link](https://sites.utexas.edu/CRL/files/2022/06/Systolic-RAM_SSCL2021.pdf)]
 - Vector inverse-Matrix Multiplication [[link](https://ieeexplore.ieee.org/document/9407108)]
   - simulator
-- Mitigating Non-linearity in Analog Matrix Multiplication via Differentiable Circuit Simulations
+- "Mitigating Non-linearity in Analog Matrix Multiplication via Differentiable Circuit Simulations"
 
 # TODO: acknowledgements
 - Co-Authors
